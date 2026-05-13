@@ -7,7 +7,7 @@ const PROFILE = {
   linkedin: "LinkedIn",
   location: "Based in Riyadh, Saudi Arabia.",
   bio: [
-    "Over the gCommunications professional with agency experience across strategic research, brand communications, media relations, and integrated communications execution for semi-government, tourism, and institutional accounts. Experienced in managing multi-stakeholder communications across earned media, influencer partnerships, and press operations. Bilingual (Arabic/English) with strong analytical and reporting capabilities.],
+    "Communications professional with agency experience across strategic research, brand communications, media relations, and integrated communications execution for semi-government, tourism, and institutional accounts. Experienced in managing multi-stakeholder communications across earned media, influencer partnerships, and press operations. Bilingual (Arabic/English) with strong analytical and reporting capabilities.],
   education: {
     degree: "BA in Public Relations",
     school: "Imam Mohammad Ibn Saud Islamic University",
